@@ -1,0 +1,4 @@
+-sources: true
+-contract: *
+
+Bundle-Name: Java xAPI client library

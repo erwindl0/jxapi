@@ -13,7 +13,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import edu.emory.mathcs.backport.java.util.Arrays;
+import java.util.Arrays;
 import gov.adlnet.xapi.model.Activity;
 import gov.adlnet.xapi.model.Agent;
 import gov.adlnet.xapi.model.Statement;
